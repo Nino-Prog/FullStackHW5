@@ -19,7 +19,7 @@ Before you begin, ensure you have installed the latest version of [Node.js](http
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/jokebook-fullstack-application.git
+    git clone https://github.com/Nino-Prog/FullStackHW5.git
     ```
 2. Navigate into the project directory:
     ```bash
